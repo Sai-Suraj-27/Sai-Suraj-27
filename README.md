@@ -1,6 +1,7 @@
+# Sai Suraj
+## Open Source Software enthusiast, Machine Learning Engineer 👨🏻‍💻 from India
+
 [![An image of @saisuraj270's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saisuraj270)](https://holopin.io/@saisuraj270)
-<h1 align="center">Hi 👋, I'm Sai Suraj</h1>
-<h3 align="center">Open Source Software enthusiast, Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-suraj-27&label=Profile%20views&color=0e75b6&style=flat" alt="sai-suraj-27" /> </p>
 
