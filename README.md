@@ -1,5 +1,5 @@
 # Sai Suraj
-## Open Source Software enthusiast, Machine Learning Engineer 👨🏻‍💻 from India
+## Open Source Software, AI enthusiast 👨🏻‍💻 from India.
 
 [![An image of @saisuraj270's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saisuraj270)](https://holopin.io/@saisuraj270)
 
