@@ -1,7 +1,10 @@
 # Sai Suraj
 ## Open Source Software, AI enthusiast 👨🏻‍💻 from India.
 
-[![An image of @saisuraj270's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saisuraj270)](https://holopin.io/@saisuraj270)
+### Prev:
+2023 Aug - 2024 Feb: Top Contributor - [@Unify](https://github.com/unifyai/ivy)
+
+2023 May - 2023 Jul: GSoC 2023 Contributor - [@gprMax](https://github.com/gprMax)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-suraj-27&label=Profile%20views&color=0e75b6&style=flat" alt="sai-suraj-27" /> </p>
 
