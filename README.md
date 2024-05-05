@@ -2,7 +2,7 @@
 ## Open Source Software, AI enthusiast 👨🏻‍💻 from India.
 
 ### Prev:
-2023 Aug - 2024 Feb: One of the [Top Contributors](https://github.com/unifyai/ivy/graphs/contributors) - [@Unify](https://github.com/unifyai/ivy)
+2023 Aug - 2024 Feb: Ivy Internal Contributors team - [@Unify](https://github.com/unifyai/ivy)
 
 2023 May - 2023 Jul: GSoC 2023 Contributor - [@gprMax](https://github.com/gprMax)
 
